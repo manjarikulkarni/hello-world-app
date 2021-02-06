@@ -9,8 +9,7 @@
 * Lastly,upon clicking on the background view , it resets all the views to default settings.
 
 ### App Walk-though
-<img src="recordit.co/X5YlI9TV2c.gif
-" width=200><br>
+<img src="http://g.recordit.co/X5YlI9TV2c.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
